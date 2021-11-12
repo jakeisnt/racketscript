@@ -17,3 +17,6 @@ TAGS
 
 *.elc
 node_modules/
+
+.direnv/*
+!.direnv/.git-keep
